@@ -1,5 +1,5 @@
 {
-    "dailyLimit": 40,
+    "dailyLimit": 50,
     "startHour": 16,
     "endHour": 21
 }
