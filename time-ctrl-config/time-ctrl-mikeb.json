@@ -1,7 +1,7 @@
 {
   "dailyLimit": 1,
   "startHour": 12,
-  "endHour": 21,
+  "endHour": 22,
   "days": {
     "mon": { "dailyLimit": 83 },
     "tue": { "dailyLimit": 120 },
