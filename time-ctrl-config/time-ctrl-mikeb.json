@@ -3,6 +3,7 @@
   "startHour": 12,
   "endHour": 21,
   "days": {
+    "mon": { "dailyLimit": 12 },
     "tue": { "dailyLimit": 120 },
     "thu": { "dailyLimit": 120 },
   }
