@@ -5,6 +5,6 @@
   "days": {
     "mon": { "dailyLimit": 12 },
     "tue": { "dailyLimit": 120 },
-    "thu": { "dailyLimit": 120 },
+    "thu": { "dailyLimit": 120 }
   }
 }
