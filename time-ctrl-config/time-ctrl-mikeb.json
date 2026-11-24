@@ -3,7 +3,7 @@
   "startHour": 12,
   "endHour": 21,
   "days": {
-    "tue": { "dailyLimit": 1 },
-    "thu": { "dailyLimit": 1 }
+    "tue": { "dailyLimit": 60 },
+    "thu": { "dailyLimit": 120 }
   }
 }
