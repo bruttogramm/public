@@ -1,9 +1,9 @@
 {
-  "dailyLimit": 90,
+  "dailyLimit": 70,
   "startHour": 12,
   "endHour": 21,
   "days": {
-    "tue": { "dailyLimit": 123 },
-    "thu": { "dailyLimit": 120 }
+    "tue": { "dailyLimit": 120 },
+    "thu": { "dailyLimit": 70 }
   }
 }
