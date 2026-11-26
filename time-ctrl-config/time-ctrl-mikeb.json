@@ -4,6 +4,6 @@
   "endHour": 21,
   "days": {
     "tue": { "dailyLimit": 120 },
-    "thu": { "dailyLimit": 70 }
+    "thu": { "dailyLimit": 60 }
   }
 }
